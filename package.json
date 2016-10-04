@@ -3,7 +3,7 @@
   "description": "A scientific editor and reader for JATS files.",
   "dependencies": {
     "lodash": "^4.14.1",
-    "substance": "substance/substance#develop"
+    "substance": "substance/substance#57fd9ed5aa8cc5376c69b528d8968ed57b733dbd"
   },
   "devDependencies": {
     "font-awesome": "4.5.0",
